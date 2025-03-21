@@ -19,3 +19,5 @@ Combine (Built-in)
 
 ## Unit Tests
 Run tests using ⌘ + U
+
+## Note: Likes and Count Api is not working, it is always returning {There's nothing here, yet.}
